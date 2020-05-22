@@ -1,0 +1,5 @@
+version "0.1"
+package "dns"
+purpose "A very simple dns client."
+usage "dns [DOMAIN_NAME]"
+description "Simple Domain Name Server"
